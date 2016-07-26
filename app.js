@@ -4,7 +4,7 @@ a.greet().setLang('es').greet(true);
 
 $('#login').click(function(){
 
-    var loginGreeting = G$('Bishorup', 'Banjara');
+    var loginGreeting = G$('John', 'Doe');
 
     $('#logindiv').hide();
 
